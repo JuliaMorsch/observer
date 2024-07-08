@@ -1,4 +1,6 @@
-package observer;
+package controller;
+
+import model.ChegadaAniversarianteEvent;
 
 public class Namorada implements ChegadaAniversarianteObserver {
     

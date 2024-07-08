@@ -1,4 +1,4 @@
-package observer;
+package model;
 
 import java.util.Date;
 
@@ -14,7 +14,4 @@ public class ChegadaAniversarianteEvent {
         return horaDataChegada;
     }
 
-    
-
-    
 }
